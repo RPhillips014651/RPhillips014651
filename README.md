@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RPhillips014651
 - 👀 I’m interested in reading or listening to books, researching, and always learning.
-- 🌱 I’m currently learning data science and all the cool ways to handle large data sets.
+- 🌱 I’m just getting started on learning some fundamental data science and all the cool ways to handle large data sets.
 
 
 <!---
